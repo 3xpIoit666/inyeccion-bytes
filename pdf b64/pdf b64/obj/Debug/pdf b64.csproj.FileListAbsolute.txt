@@ -1,0 +1,5 @@
+C:\Users\C#D3R\source\repos\pdf b64\pdf b64\obj\Debug\pdf b64.csproj.CoreCompileInputs.cache
+C:\Users\C#D3R\source\repos\pdf b64\pdf b64\bin\Debug\pdf b64.exe
+C:\Users\C#D3R\source\repos\pdf b64\pdf b64\bin\Debug\pdf b64.pdb
+C:\Users\C#D3R\source\repos\pdf b64\pdf b64\obj\Debug\pdf b64.exe
+C:\Users\C#D3R\source\repos\pdf b64\pdf b64\obj\Debug\pdf b64.pdb
